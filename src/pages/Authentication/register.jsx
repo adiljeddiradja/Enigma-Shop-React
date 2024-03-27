@@ -30,7 +30,7 @@ class Register extends Component {
                             </div>
                             <form>
                                 <div className="mb-3">
-                                    <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
+                                    <label htmlFor="exampleInputEmpnail1" className="form-label">Email address</label>
                                     <input type="email" className="form-control border-bottom border-0" id="exampleInputEmail1"
                                            aria-describedby="emailHelp"/>
 

@@ -4,8 +4,6 @@
 
 import React from 'react';
 import Login from "@/pages/Authentication/Login.jsx";
-import Register from "@/pages/Authentication/register.jsx";
-
 
 
 // React Component
@@ -17,7 +15,7 @@ class App extends React.Component {
         return (
 
                 // <Home/>
-            <Register />
+            <Login/>
 
 
 
